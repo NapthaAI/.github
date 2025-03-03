@@ -4,7 +4,7 @@ Naptha is a framework and infrastructure for developing and running multi-agent 
 
 <p align="center">
   <a href="https://docs.naptha.ai/">Documentation</a> |
-  <a href="https://naptha.ai/">Website</a> |
+  <a href="https://naptha.ai/">Website</a> 
 </p>
 
 ## Getting Started
